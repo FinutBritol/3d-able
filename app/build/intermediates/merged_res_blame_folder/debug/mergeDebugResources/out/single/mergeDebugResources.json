@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_item_user.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_ic_compass.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/ic_compass.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_ic_close.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_campus_map.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/campus_map.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_slider.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/slider.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_settings.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/settings.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_room_status.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/room_status.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_reservation.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/reservation.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_activity_main.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_building.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/building.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_room_status_bg.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/room_status_bg.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/xml_backup_rules.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_ic_add.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_activity_login.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_settings_logo.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/settings_logo.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/drawable_menu_button.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/drawable/menu_button.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_edit_profile.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/edit_profile.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_profile_info.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/profile_info.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dbtest.app-main-69:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_fragment_list.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-debug-67:/layout_fragment_add.xml.flat",
+        "source": "com.example.dbtest.app-main-69:/layout/fragment_add.xml"
+    }
+]

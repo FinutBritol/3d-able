@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "423416152775",
+    "firebase_url": "https://dbtest-81342768-default-rtdb.firebaseio.com",
+    "project_id": "dbtest-81342768",
+    "storage_bucket": "dbtest-81342768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423416152775:android:0a94ee8fc7e6ca4f16b4e2",
+        "android_client_info": {
+          "package_name": "com.example.dbtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh-9wAE8j6nPKRVTJLhLq42aWR5gUhxvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

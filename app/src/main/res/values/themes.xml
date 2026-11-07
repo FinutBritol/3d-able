@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Your existing app theme -->
+    <style name="Theme.Dbtest" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- your existing items -->
+    </style>
+
+    <!-- Room Status Dialog -->
+    <style name="RoomStatusDialogTheme" parent="Theme.Material3.Light.Dialog.Alert">
+
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#000000</item>
+
+        <item name="android:colorBackground">#FFFFFF</item>
+
+        <item name="android:windowBackground">@drawable/room_status_bg</item>
+
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+
+    </style>
+
+</resources>

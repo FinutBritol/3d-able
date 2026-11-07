@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/profile_info.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/profile_info.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/activity_main.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/fragment_add.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/fragment_add.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/activity_login.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/edit_profile.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/edit_profile.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/activity_sign_up.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/fragment_list.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/item_user.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/campus_map.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/campus_map.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/reservation.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/reservation.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/slider.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/slider.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/room_status.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/room_status.xml"
+    },
+    {
+        "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/settings.xml",
+        "source": "com.example.dbtest.app-main-69:/layout/settings.xml"
+    }
+]
