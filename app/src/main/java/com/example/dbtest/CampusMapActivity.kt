@@ -2,7 +2,12 @@ package com.example.dbtest
 
 import android.app.Activity
 import android.content.Intent
+import android.graphics.Color
+import android.graphics.drawable.GradientDrawable
 import android.os.Bundle
+import android.view.Gravity
+import android.view.View
+import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.result.contract.ActivityResultContracts
@@ -146,6 +151,59 @@ class CampusMapActivity : AppCompatActivity() {
                 }
                 CompassOverlay(mapRotationDegrees = mapRotation)
             }
+        }
+
+        setupLegend()
+    }
+
+    private fun setupLegend() {
+        val container = findViewById<LinearLayout>(R.id.legendLayout)
+        val header = findViewById<TextView>(R.id.legendHeader)
+        val dp = resources.displayMetrics.density
+
+        val items = listOf(
+            "IT - Gray" to Color.argb(170, 105, 105, 105),
+            "HM - Orange" to Color.argb(170, 255, 121, 0),
+            "TM - Yellow" to Color.argb(170, 255, 235, 59),
+            "BSE - Blue" to Color.argb(170, 33, 150, 243),
+            "Canteens - Green" to Color.argb(170, 76, 175, 80),
+            "CR, SSC Building, Fishery, Open Court, Hostel, Library - Red" to Color.argb(170, 244, 67, 54),
+            "Chapel, Training Center, Registrar, Gray gym, Ancient - Brown" to Color.argb(170, 121, 92, 52),
+            "Parking Area, School Van Parking Area - Beige" to Color.rgb(235, 231, 191),
+            "Guard House - Pink" to Color.argb(170, 255, 192, 203),
+        )
+
+        items.forEach { (text, color) ->
+            val row = LinearLayout(this).apply {
+                orientation = LinearLayout.HORIZONTAL
+                gravity = Gravity.CENTER_VERTICAL
+                setPadding(0, (2 * dp).toInt(), 0, (2 * dp).toInt())
+            }
+            val swatch = View(this).apply {
+                layoutParams = LinearLayout.LayoutParams((12 * dp).toInt(), (12 * dp).toInt())
+                    .apply { marginEnd = (6 * dp).toInt() }
+                if (color != null) {
+                    background = GradientDrawable().apply {
+                        setColor(color)
+                        setStroke((1 * dp).toInt(), 0x33000000)
+                    }
+                }
+            }
+            val label = TextView(this).apply {
+                this.text = text
+                textSize = 11f
+                maxWidth = (220 * dp).toInt()
+                setTextColor(Color.BLACK)
+            }
+            row.addView(swatch)
+            row.addView(label)
+            container.addView(row)
+        }
+
+        header.setOnClickListener {
+            val show = container.visibility != View.VISIBLE
+            container.visibility = if (show) View.VISIBLE else View.GONE
+            header.text = if (show) "Map Key ▾" else "Map Key ▸"
         }
     }
 

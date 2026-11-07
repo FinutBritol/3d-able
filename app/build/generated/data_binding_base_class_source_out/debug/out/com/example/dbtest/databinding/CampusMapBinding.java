@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 import android.widget.SeekBar;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -37,6 +38,15 @@ public final class CampusMapBinding implements ViewBinding {
   public final MaterialButton floorToggleButton;
 
   @NonNull
+  public final LinearLayout legendCard;
+
+  @NonNull
+  public final TextView legendHeader;
+
+  @NonNull
+  public final LinearLayout legendLayout;
+
+  @NonNull
   public final SiteMapView siteMapView;
 
   @NonNull
@@ -50,14 +60,18 @@ public final class CampusMapBinding implements ViewBinding {
 
   private CampusMapBinding(@NonNull FrameLayout rootView, @NonNull TextView buildingName,
       @NonNull ComposeView compassOverlay, @NonNull FloatingActionButton floatingActionButton,
-      @NonNull MaterialButton floorToggleButton, @NonNull SiteMapView siteMapView,
-      @NonNull SliderBinding sliderRoot, @NonNull SeekBar tiltSeek,
-      @NonNull MaterialButton view3dButton) {
+      @NonNull MaterialButton floorToggleButton, @NonNull LinearLayout legendCard,
+      @NonNull TextView legendHeader, @NonNull LinearLayout legendLayout,
+      @NonNull SiteMapView siteMapView, @NonNull SliderBinding sliderRoot,
+      @NonNull SeekBar tiltSeek, @NonNull MaterialButton view3dButton) {
     this.rootView = rootView;
     this.buildingName = buildingName;
     this.compassOverlay = compassOverlay;
     this.floatingActionButton = floatingActionButton;
     this.floorToggleButton = floorToggleButton;
+    this.legendCard = legendCard;
+    this.legendHeader = legendHeader;
+    this.legendLayout = legendLayout;
     this.siteMapView = siteMapView;
     this.sliderRoot = sliderRoot;
     this.tiltSeek = tiltSeek;
@@ -115,6 +129,24 @@ public final class CampusMapBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.legendCard;
+      LinearLayout legendCard = ViewBindings.findChildViewById(rootView, id);
+      if (legendCard == null) {
+        break missingId;
+      }
+
+      id = R.id.legendHeader;
+      TextView legendHeader = ViewBindings.findChildViewById(rootView, id);
+      if (legendHeader == null) {
+        break missingId;
+      }
+
+      id = R.id.legendLayout;
+      LinearLayout legendLayout = ViewBindings.findChildViewById(rootView, id);
+      if (legendLayout == null) {
+        break missingId;
+      }
+
       id = R.id.siteMapView;
       SiteMapView siteMapView = ViewBindings.findChildViewById(rootView, id);
       if (siteMapView == null) {
@@ -141,8 +173,8 @@ public final class CampusMapBinding implements ViewBinding {
       }
 
       return new CampusMapBinding((FrameLayout) rootView, buildingName, compassOverlay,
-          floatingActionButton, floorToggleButton, siteMapView, binding_sliderRoot, tiltSeek,
-          view3dButton);
+          floatingActionButton, floorToggleButton, legendCard, legendHeader, legendLayout,
+          siteMapView, binding_sliderRoot, tiltSeek, view3dButton);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

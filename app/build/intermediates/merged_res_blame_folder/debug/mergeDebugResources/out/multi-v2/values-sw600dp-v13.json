@@ -4,7 +4,7 @@
             "outputFile": "com.example.dbtest.app-mergeDebugResources-65:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\9.5.0\\transforms\\8c2e31856bb5f038d52e73384412819b\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/home/zeke/.gradle/caches/9.5.0/transforms/8c2e31856bb5f038d52e73384412819b/transformed/appcompat-1.7.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\9.5.0\\transforms\\7f33576b14135b608ad9468152b13107\\transformed\\material-1.14.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/home/zeke/.gradle/caches/9.5.0/transforms/7f33576b14135b608ad9468152b13107/transformed/material-1.14.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

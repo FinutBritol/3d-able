@@ -12,6 +12,7 @@ drawable ic_close
 drawable ic_compass
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable legend_bg
 drawable menu_button
 drawable room_status_bg
 drawable settings_logo
@@ -55,6 +56,9 @@ id et_username
 id floatingActionButton
 id floorToggleButton
 id fragment_container_view
+id legendCard
+id legendHeader
+id legendLayout
 id listFragment
 id ll_existing_slots
 id ll_manage_reservations

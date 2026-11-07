@@ -4,7 +4,7 @@
             "outputFile": "com.example.dbtest.app-mergeDebugResources-65:/values-h320dp-v13/values-h320dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Admin\\.gradle\\caches\\9.5.0\\transforms\\7f33576b14135b608ad9468152b13107\\transformed\\material-1.14.0\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "source": "/home/zeke/.gradle/caches/9.5.0/transforms/7f33576b14135b608ad9468152b13107/transformed/material-1.14.0/res/values-h320dp-v13/values-h320dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

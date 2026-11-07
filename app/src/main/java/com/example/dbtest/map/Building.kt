@@ -7,7 +7,7 @@
 //faculties - darker color depende no niya department
 //library, fishfishes, courts, dean, hostel, student center, ssc - red
 //parkingan - brown
-//balay ti uttogs - pink
+//guard house - pink
 //reserve-able lang jay it buildings, dadduma macklick ngem info lang agparang
 //pag joinen yunto man agijay buildings ta maifill colors tu langnen
 
@@ -55,7 +55,8 @@ object CampusBuildings {
         Building("building_4d_gf", "Training Center - Storage 1", pts(621,147, 619,74, 659,72, 662,146), fillColor = UNCOLORED_BROWN, clickable = false),
         Building("building_4e", "Training Center - Storage 2", pts(760,112, 729,113, 728,70, 758,68), fillColor = UNCOLORED_BROWN, floor = 2, clickable = false),
         Building("building_4e_gf", "Training Center - Storage 2", pts(760,112, 729,113, 728,70, 758,68), fillColor = UNCOLORED_BROWN, clickable = false),
-        Building("building_4f", "Training Center - Room 4", pts(661,114, 659,72, 728,70, 729,112), fillColor = UNCOLORED_BROWN),
+        Building("building_4f", "Training Center - Room 4", pts(661,114, 659,72, 728,70, 729,112), fillColor = UNCOLORED_BROWN, floor = 2),
+        Building("building_4f_gf", "Training Center - Room 4", pts(661,114, 659,72, 728,70, 729,112), fillColor = UNCOLORED_BROWN),
         Building("building_4g", "Training Center - Room 5", pts(662,146, 661,114, 695,113, 696,144), fillColor = UNCOLORED_BROWN, floor = 2),
         Building("building_4g_gf", "Training Center - Room 5", pts(662,146, 661,114, 695,113, 696,144), fillColor = UNCOLORED_BROWN),
         Building("building_4h", "Training Center - Room 6", pts(696,144, 695,113, 729,112, 730,143), fillColor = UNCOLORED_BROWN, floor = 2),
@@ -137,7 +138,9 @@ object CampusBuildings {
 const val FLOOR_HEIGHT = 30f
 
 // Ground-level surfaces that should be painted flat instead of extruded.
-private val FLAT_IDS = setOf("building_9", "building_11", "building_20")
+// building_11 (Open Court), building_20 (School Van Parking Area), and building_4f
+// (Training Center - Room 4) are now extruded so they appear as squares in 3D.
+private val FLAT_IDS = setOf("building_9")
 
 // floor = 2 pieces sit on top of their "_gf" twins.
 val Building.baseZ: Float get() = if (floor == 2) FLOOR_HEIGHT else 0f

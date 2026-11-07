@@ -11,6 +11,7 @@ int drawable ic_close 0x0
 int drawable ic_compass 0x0
 int drawable ic_launcher_background 0x0
 int drawable ic_launcher_foreground 0x0
+int drawable legend_bg 0x0
 int drawable menu_button 0x0
 int drawable room_status_bg 0x0
 int drawable settings_logo 0x0
@@ -54,6 +55,9 @@ int id et_username 0x0
 int id floatingActionButton 0x0
 int id floorToggleButton 0x0
 int id fragment_container_view 0x0
+int id legendCard 0x0
+int id legendHeader 0x0
+int id legendLayout 0x0
 int id listFragment 0x0
 int id ll_existing_slots 0x0
 int id ll_manage_reservations 0x0

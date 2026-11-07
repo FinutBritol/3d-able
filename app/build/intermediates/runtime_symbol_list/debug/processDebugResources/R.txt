@@ -3851,6 +3851,7 @@ int drawable ic_mtrl_chip_checked_black 0x7f0700b2
 int drawable ic_mtrl_chip_checked_circle 0x7f0700b3
 int drawable ic_mtrl_chip_close_circle 0x7f0700b4
 int drawable ic_search_black_24 0x7f0700b5
+int drawable legend_bg 0x7f070140
 int drawable m3_action_bar_item_background 0x7f0700b6
 int drawable m3_avd_hide_password 0x7f0700b7
 int drawable m3_avd_show_password 0x7f0700b8
@@ -4298,6 +4299,9 @@ int id layout 0x7f080131
 int id left 0x7f080132
 int id leftToRight 0x7f080133
 int id legacy 0x7f080134
+int id legendCard 0x7f08027c
+int id legendHeader 0x7f08027d
+int id legendLayout 0x7f08027e
 int id light 0x7f080135
 int id line1 0x7f080136
 int id line3 0x7f080137
