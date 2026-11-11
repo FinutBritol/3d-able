@@ -12,286 +12,286 @@
 9-->INJECTED
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:5:5-67
-11-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:5:22-64
+11-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:6:5-79
-12-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:6:22-76
+12-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:6:22-76
 13
 14    <permission
-14-->[androidx.core:core:1.19.0] /home/zeke/.gradle/caches/9.5.0/transforms/98299a22e02f31c07c3fc8d78a0e603f/transformed/core-1.19.0/AndroidManifest.xml:22:5-24:47
+14-->[androidx.core:core:1.19.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\98299a22e02f31c07c3fc8d78a0e603f\transformed\core-1.19.0\AndroidManifest.xml:22:5-24:47
 15        android:name="com.example.dbtest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-15-->[androidx.core:core:1.19.0] /home/zeke/.gradle/caches/9.5.0/transforms/98299a22e02f31c07c3fc8d78a0e603f/transformed/core-1.19.0/AndroidManifest.xml:23:9-81
+15-->[androidx.core:core:1.19.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\98299a22e02f31c07c3fc8d78a0e603f\transformed\core-1.19.0\AndroidManifest.xml:23:9-81
 16        android:protectionLevel="signature" />
-16-->[androidx.core:core:1.19.0] /home/zeke/.gradle/caches/9.5.0/transforms/98299a22e02f31c07c3fc8d78a0e603f/transformed/core-1.19.0/AndroidManifest.xml:24:9-44
+16-->[androidx.core:core:1.19.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\98299a22e02f31c07c3fc8d78a0e603f\transformed\core-1.19.0\AndroidManifest.xml:24:9-44
 17
 18    <uses-permission android:name="com.example.dbtest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-18-->[androidx.core:core:1.19.0] /home/zeke/.gradle/caches/9.5.0/transforms/98299a22e02f31c07c3fc8d78a0e603f/transformed/core-1.19.0/AndroidManifest.xml:26:5-97
-18-->[androidx.core:core:1.19.0] /home/zeke/.gradle/caches/9.5.0/transforms/98299a22e02f31c07c3fc8d78a0e603f/transformed/core-1.19.0/AndroidManifest.xml:26:22-94
+18-->[androidx.core:core:1.19.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\98299a22e02f31c07c3fc8d78a0e603f\transformed\core-1.19.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.19.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\98299a22e02f31c07c3fc8d78a0e603f\transformed\core-1.19.0\AndroidManifest.xml:26:22-94
 19
 20    <application
-20-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:8:5-71:19
+20-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:8:5-71:19
 21        android:allowBackup="true"
-21-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:9:9-35
+21-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:9:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.19.0] /home/zeke/.gradle/caches/9.5.0/transforms/98299a22e02f31c07c3fc8d78a0e603f/transformed/core-1.19.0/AndroidManifest.xml:28:18-86
+22-->[androidx.core:core:1.19.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\98299a22e02f31c07c3fc8d78a0e603f\transformed\core-1.19.0\AndroidManifest.xml:28:18-86
 23        android:dataExtractionRules="@xml/data_extraction_rules"
-23-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:10:9-65
+23-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:10:9-65
 24        android:debuggable="true"
 25        android:extractNativeLibs="false"
 25-->INJECTED
 26        android:fullBackupContent="@xml/backup_rules"
-26-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:11:9-54
+26-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:11:9-54
 27        android:icon="@mipmap/ic_launcher"
-27-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:12:9-43
+27-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:12:9-43
 28        android:label="@string/CampuSpot"
-28-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:13:9-42
+28-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:13:9-42
 29        android:roundIcon="@mipmap/ic_launcher_round"
-29-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:14:9-54
+29-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:14:9-54
 30        android:supportsRtl="true"
-30-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:15:9-35
+30-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:15:9-35
 31        android:testOnly="true"
 32        android:theme="@style/Theme.Dbtest" >
-32-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:16:9-44
+32-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:16:9-44
 33
 34        <!-- LoginActivity: now the first screen that opens -->
 35        <activity
-35-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:19:9-27:20
+35-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:19:9-27:20
 36            android:name="com.example.dbtest.LoginActivity"
-36-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:20:13-42
+36-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:20:13-42
 37            android:exported="true"
-37-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:21:13-36
+37-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:21:13-36
 38            android:theme="@style/Theme.Dbtest" >
-38-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:22:13-48
+38-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:22:13-48
 39            <intent-filter>
-39-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:23:13-26:29
+39-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:23:13-26:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:24:17-69
-40-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:24:25-66
+40-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:24:17-69
+40-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:24:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:25:17-77
-42-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:25:27-74
+42-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:25:17-77
+42-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:25:27-74
 43            </intent-filter>
 44        </activity>
 45        <activity
-45-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:29:9-34:58
+45-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:29:9-34:58
 46            android:name="com.example.dbtest.MainActivity"
-46-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:30:13-41
+46-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:30:13-41
 47            android:exported="false"
-47-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:31:13-37
+47-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:31:13-37
 48            android:label="@string/CampuSpot"
-48-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:32:13-46
+48-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:32:13-46
 49            android:theme="@style/Theme.Dbtest"
-49-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:33:13-48
+49-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:33:13-48
 50            android:windowSoftInputMode="adjustResize" />
-50-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:34:13-55
+50-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:34:13-55
 51        <activity
-51-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:36:9-39:51
+51-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:36:9-39:51
 52            android:name="com.example.dbtest.SignUpActivity"
-52-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:37:13-43
+52-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:37:13-43
 53            android:exported="false"
-53-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:38:13-37
+53-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:38:13-37
 54            android:theme="@style/Theme.Dbtest" />
-54-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:39:13-48
+54-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:39:13-48
 55        <activity
-55-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:41:9-44:51
+55-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:41:9-44:51
 56            android:name="com.example.dbtest.CampusMapActivity"
-56-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:42:13-46
+56-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:42:13-46
 57            android:exported="false"
-57-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:43:13-37
+57-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:43:13-37
 58            android:theme="@style/Theme.Dbtest" />
-58-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:44:13-48
+58-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:44:13-48
 59        <activity
-59-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:46:9-49:51
+59-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:46:9-49:51
 60            android:name="com.example.dbtest.ReservationActivity"
-60-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:47:13-48
+60-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:47:13-48
 61            android:exported="false"
-61-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:48:13-37
+61-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:48:13-37
 62            android:theme="@style/Theme.Dbtest" />
-62-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:49:13-48
+62-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:49:13-48
 63        <activity
-63-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:51:9-54:51
+63-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:51:9-54:51
 64            android:name="com.example.dbtest.Settings"
-64-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:52:13-37
+64-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:52:13-37
 65            android:exported="false"
-65-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:53:13-37
+65-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:53:13-37
 66            android:theme="@style/Theme.Dbtest" />
-66-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:54:13-48
+66-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:54:13-48
 67        <activity
-67-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:56:9-59:51
+67-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:56:9-59:51
 68            android:name="com.example.dbtest.ProfileInfo"
-68-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:57:13-40
+68-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:57:13-40
 69            android:exported="false"
-69-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:58:13-37
+69-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:58:13-37
 70            android:theme="@style/Theme.Dbtest" />
-70-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:59:13-48
+70-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:59:13-48
 71        <activity
-71-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:61:9-64:51
+71-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:61:9-64:51
 72            android:name="com.example.dbtest.EditProfile"
-72-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:62:13-40
+72-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:62:13-40
 73            android:exported="false"
-73-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:63:13-37
+73-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:63:13-37
 74            android:theme="@style/Theme.Dbtest" />
-74-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:64:13-48
+74-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:64:13-48
 75        <activity
-75-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:66:9-69:51
+75-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:66:9-69:51
 76            android:name="com.example.dbtest.CompassActivity"
-76-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:67:13-44
+76-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:67:13-44
 77            android:exported="false"
-77-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:68:13-37
+77-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:68:13-37
 78            android:theme="@style/Theme.Dbtest" />
-78-->/home/zeke/AndroidStudioProjects/3d-able/app/src/main/AndroidManifest.xml:69:13-48
+78-->C:\Users\Admin\Downloads\Final_Repo_3D\Final_Repo\app\src\main\AndroidManifest.xml:69:13-48
 79        <activity
-79-->[androidx.compose.ui:ui-tooling-android:1.10.4] /home/zeke/.gradle/caches/9.5.0/transforms/36d925326e0bd6712d3cf639ad192fad/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+79-->[androidx.compose.ui:ui-tooling-android:1.10.4] C:\Users\Admin\.gradle\caches\9.5.0\transforms\36d925326e0bd6712d3cf639ad192fad\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
 80            android:name="androidx.compose.ui.tooling.PreviewActivity"
-80-->[androidx.compose.ui:ui-tooling-android:1.10.4] /home/zeke/.gradle/caches/9.5.0/transforms/36d925326e0bd6712d3cf639ad192fad/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+80-->[androidx.compose.ui:ui-tooling-android:1.10.4] C:\Users\Admin\.gradle\caches\9.5.0\transforms\36d925326e0bd6712d3cf639ad192fad\transformed\ui-tooling\AndroidManifest.xml:24:13-71
 81            android:exported="true" />
-81-->[androidx.compose.ui:ui-tooling-android:1.10.4] /home/zeke/.gradle/caches/9.5.0/transforms/36d925326e0bd6712d3cf639ad192fad/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+81-->[androidx.compose.ui:ui-tooling-android:1.10.4] C:\Users\Admin\.gradle\caches\9.5.0\transforms\36d925326e0bd6712d3cf639ad192fad\transformed\ui-tooling\AndroidManifest.xml:25:13-36
 82
 83        <service
-83-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:26:9-35:19
+83-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:26:9-35:19
 84            android:name="com.google.firebase.components.ComponentDiscoveryService"
-84-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:27:13-84
+84-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:27:13-84
 85            android:directBootAware="true"
-85-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:32:13-43
+85-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:32:13-43
 86            android:exported="false" >
-86-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:28:13-37
+86-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:28:13-37
 87            <meta-data
-87-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:29:13-31:85
+87-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:29:13-31:85
 88                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
-88-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:30:17-120
+88-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:30:17-120
 89                android:value="com.google.firebase.components.ComponentRegistrar" />
-89-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:31:17-82
+89-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:31:17-82
 90            <meta-data
-90-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:32:13-34:85
+90-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:32:13-34:85
 91                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-91-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:33:17-109
+91-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:33:17-109
 92                android:value="com.google.firebase.components.ComponentRegistrar" />
-92-->[com.google.firebase:firebase-database:22.0.1] /home/zeke/.gradle/caches/9.5.0/transforms/24da682c1b11f3c047dcc93a534d37b3/transformed/firebase-database-22.0.1/AndroidManifest.xml:34:17-82
+92-->[com.google.firebase:firebase-database:22.0.1] C:\Users\Admin\.gradle\caches\9.5.0\transforms\24da682c1b11f3c047dcc93a534d37b3\transformed\firebase-database-22.0.1\AndroidManifest.xml:34:17-82
 93            <meta-data
-93-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:35:13-37:85
+93-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:35:13-37:85
 94                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-94-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:36:17-109
+94-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:36:17-109
 95                android:value="com.google.firebase.components.ComponentRegistrar" />
-95-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:37:17-82
+95-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:37:17-82
 96        </service>
 97
 98        <activity
-98-->[com.google.android.gms:play-services-base:18.1.0] /home/zeke/.gradle/caches/9.5.0/transforms/78d59c680d8232806169624e7c41eb18/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+98-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\78d59c680d8232806169624e7c41eb18\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
 99            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-99-->[com.google.android.gms:play-services-base:18.1.0] /home/zeke/.gradle/caches/9.5.0/transforms/78d59c680d8232806169624e7c41eb18/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+99-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\78d59c680d8232806169624e7c41eb18\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
 100            android:exported="false"
-100-->[com.google.android.gms:play-services-base:18.1.0] /home/zeke/.gradle/caches/9.5.0/transforms/78d59c680d8232806169624e7c41eb18/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+100-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\78d59c680d8232806169624e7c41eb18\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
 101            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-101-->[com.google.android.gms:play-services-base:18.1.0] /home/zeke/.gradle/caches/9.5.0/transforms/78d59c680d8232806169624e7c41eb18/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+101-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\78d59c680d8232806169624e7c41eb18\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
 102
 103        <provider
-103-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:23:9-28:39
+103-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:23:9-28:39
 104            android:name="com.google.firebase.provider.FirebaseInitProvider"
-104-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:24:13-77
+104-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:24:13-77
 105            android:authorities="com.example.dbtest.firebaseinitprovider"
-105-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:25:13-72
+105-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:25:13-72
 106            android:directBootAware="true"
-106-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:26:13-43
+106-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:26:13-43
 107            android:exported="false"
-107-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:27:13-37
+107-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:27:13-37
 108            android:initOrder="100" />
-108-->[com.google.firebase:firebase-common:22.2.0] /home/zeke/.gradle/caches/9.5.0/transforms/8d09d1bf77e79c71c7f575fe8923a219/transformed/firebase-common-22.2.0/AndroidManifest.xml:28:13-36
+108-->[com.google.firebase:firebase-common:22.2.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\8d09d1bf77e79c71c7f575fe8923a219\transformed\firebase-common-22.2.0\AndroidManifest.xml:28:13-36
 109        <provider
-109-->[androidx.emoji2:emoji2:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/1e8d107b8d0f418f4adccba5c4dbec8c/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+109-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\1e8d107b8d0f418f4adccba5c4dbec8c\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
 110            android:name="androidx.startup.InitializationProvider"
-110-->[androidx.emoji2:emoji2:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/1e8d107b8d0f418f4adccba5c4dbec8c/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+110-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\1e8d107b8d0f418f4adccba5c4dbec8c\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
 111            android:authorities="com.example.dbtest.androidx-startup"
-111-->[androidx.emoji2:emoji2:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/1e8d107b8d0f418f4adccba5c4dbec8c/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+111-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\1e8d107b8d0f418f4adccba5c4dbec8c\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
 112            android:exported="false" >
-112-->[androidx.emoji2:emoji2:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/1e8d107b8d0f418f4adccba5c4dbec8c/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+112-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\1e8d107b8d0f418f4adccba5c4dbec8c\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
 113            <meta-data
-113-->[androidx.emoji2:emoji2:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/1e8d107b8d0f418f4adccba5c4dbec8c/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+113-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\1e8d107b8d0f418f4adccba5c4dbec8c\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
 114                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-114-->[androidx.emoji2:emoji2:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/1e8d107b8d0f418f4adccba5c4dbec8c/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+114-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\1e8d107b8d0f418f4adccba5c4dbec8c\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
 115                android:value="androidx.startup" />
-115-->[androidx.emoji2:emoji2:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/1e8d107b8d0f418f4adccba5c4dbec8c/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+115-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\1e8d107b8d0f418f4adccba5c4dbec8c\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
 116            <meta-data
-116-->[androidx.lifecycle:lifecycle-process:2.11.0] /home/zeke/.gradle/caches/9.5.0/transforms/31f2fdffc93a65ca0f95ecaa84ccc0d0/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:29:13-31:52
+116-->[androidx.lifecycle:lifecycle-process:2.11.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\31f2fdffc93a65ca0f95ecaa84ccc0d0\transformed\lifecycle-process-2.11.0\AndroidManifest.xml:29:13-31:52
 117                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-117-->[androidx.lifecycle:lifecycle-process:2.11.0] /home/zeke/.gradle/caches/9.5.0/transforms/31f2fdffc93a65ca0f95ecaa84ccc0d0/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:30:17-78
+117-->[androidx.lifecycle:lifecycle-process:2.11.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\31f2fdffc93a65ca0f95ecaa84ccc0d0\transformed\lifecycle-process-2.11.0\AndroidManifest.xml:30:17-78
 118                android:value="androidx.startup" />
-118-->[androidx.lifecycle:lifecycle-process:2.11.0] /home/zeke/.gradle/caches/9.5.0/transforms/31f2fdffc93a65ca0f95ecaa84ccc0d0/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:31:17-49
+118-->[androidx.lifecycle:lifecycle-process:2.11.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\31f2fdffc93a65ca0f95ecaa84ccc0d0\transformed\lifecycle-process-2.11.0\AndroidManifest.xml:31:17-49
 119            <meta-data
-119-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+119-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
 120                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-120-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
 121                android:value="androidx.startup" />
-121-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
 122        </provider>
 123
 124        <uses-library
-124-->[androidx.window:window:1.5.0] /home/zeke/.gradle/caches/9.5.0/transforms/95969dbb6c4e0544beb78fa40a007a14/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+124-->[androidx.window:window:1.5.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\95969dbb6c4e0544beb78fa40a007a14\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
 125            android:name="androidx.window.extensions"
-125-->[androidx.window:window:1.5.0] /home/zeke/.gradle/caches/9.5.0/transforms/95969dbb6c4e0544beb78fa40a007a14/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+125-->[androidx.window:window:1.5.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\95969dbb6c4e0544beb78fa40a007a14\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
 126            android:required="false" />
-126-->[androidx.window:window:1.5.0] /home/zeke/.gradle/caches/9.5.0/transforms/95969dbb6c4e0544beb78fa40a007a14/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+126-->[androidx.window:window:1.5.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\95969dbb6c4e0544beb78fa40a007a14\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
 127        <uses-library
-127-->[androidx.window:window:1.5.0] /home/zeke/.gradle/caches/9.5.0/transforms/95969dbb6c4e0544beb78fa40a007a14/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+127-->[androidx.window:window:1.5.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\95969dbb6c4e0544beb78fa40a007a14\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
 128            android:name="androidx.window.sidecar"
-128-->[androidx.window:window:1.5.0] /home/zeke/.gradle/caches/9.5.0/transforms/95969dbb6c4e0544beb78fa40a007a14/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+128-->[androidx.window:window:1.5.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\95969dbb6c4e0544beb78fa40a007a14\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
 129            android:required="false" />
-129-->[androidx.window:window:1.5.0] /home/zeke/.gradle/caches/9.5.0/transforms/95969dbb6c4e0544beb78fa40a007a14/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+129-->[androidx.window:window:1.5.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\95969dbb6c4e0544beb78fa40a007a14\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
 130
 131        <receiver
-131-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
 132            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-132-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+132-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
 133            android:directBootAware="false"
-133-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+133-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
 134            android:enabled="true"
-134-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
 135            android:exported="true"
-135-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
 136            android:permission="android.permission.DUMP" >
-136-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+136-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
 137            <intent-filter>
-137-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
 138                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-138-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
-138-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+138-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+138-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
 139            </intent-filter>
 140            <intent-filter>
-140-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
 141                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-141-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
-141-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
 142            </intent-filter>
 143            <intent-filter>
-143-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
 144                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-144-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
-144-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
 145            </intent-filter>
 146            <intent-filter>
-146-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
 147                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-147-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
-147-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/zeke/.gradle/caches/9.5.0/transforms/ba02f85618aa4a4ae162023724d1bec9/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\ba02f85618aa4a4ae162023724d1bec9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
 148            </intent-filter>
 149        </receiver>
 150
 151        <meta-data
-151-->[com.google.android.gms:play-services-basement:18.9.0] /home/zeke/.gradle/caches/9.5.0/transforms/9d4c2a1534a26b5cf3e05185286972c1/transformed/play-services-basement-18.9.0/AndroidManifest.xml:21:9-23:69
+151-->[com.google.android.gms:play-services-basement:18.9.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\9d4c2a1534a26b5cf3e05185286972c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:21:9-23:69
 152            android:name="com.google.android.gms.version"
-152-->[com.google.android.gms:play-services-basement:18.9.0] /home/zeke/.gradle/caches/9.5.0/transforms/9d4c2a1534a26b5cf3e05185286972c1/transformed/play-services-basement-18.9.0/AndroidManifest.xml:22:13-58
+152-->[com.google.android.gms:play-services-basement:18.9.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\9d4c2a1534a26b5cf3e05185286972c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:22:13-58
 153            android:value="@integer/google_play_services_version" />
-153-->[com.google.android.gms:play-services-basement:18.9.0] /home/zeke/.gradle/caches/9.5.0/transforms/9d4c2a1534a26b5cf3e05185286972c1/transformed/play-services-basement-18.9.0/AndroidManifest.xml:23:13-66
+153-->[com.google.android.gms:play-services-basement:18.9.0] C:\Users\Admin\.gradle\caches\9.5.0\transforms\9d4c2a1534a26b5cf3e05185286972c1\transformed\play-services-basement-18.9.0\AndroidManifest.xml:23:13-66
 154
 155        <activity
-155-->[androidx.compose.ui:ui-test-manifest:1.10.4] /home/zeke/.gradle/caches/9.5.0/transforms/b2978057452ba23887e32f2483a4c8b8/transformed/ui-test-manifest-1.10.4/AndroidManifest.xml:23:9-26:79
+155-->[androidx.compose.ui:ui-test-manifest:1.10.4] C:\Users\Admin\.gradle\caches\9.5.0\transforms\b2978057452ba23887e32f2483a4c8b8\transformed\ui-test-manifest-1.10.4\AndroidManifest.xml:23:9-26:79
 156            android:name="androidx.activity.ComponentActivity"
-156-->[androidx.compose.ui:ui-test-manifest:1.10.4] /home/zeke/.gradle/caches/9.5.0/transforms/b2978057452ba23887e32f2483a4c8b8/transformed/ui-test-manifest-1.10.4/AndroidManifest.xml:24:13-63
+156-->[androidx.compose.ui:ui-test-manifest:1.10.4] C:\Users\Admin\.gradle\caches\9.5.0\transforms\b2978057452ba23887e32f2483a4c8b8\transformed\ui-test-manifest-1.10.4\AndroidManifest.xml:24:13-63
 157            android:exported="true"
-157-->[androidx.compose.ui:ui-test-manifest:1.10.4] /home/zeke/.gradle/caches/9.5.0/transforms/b2978057452ba23887e32f2483a4c8b8/transformed/ui-test-manifest-1.10.4/AndroidManifest.xml:25:13-36
+157-->[androidx.compose.ui:ui-test-manifest:1.10.4] C:\Users\Admin\.gradle\caches\9.5.0\transforms\b2978057452ba23887e32f2483a4c8b8\transformed\ui-test-manifest-1.10.4\AndroidManifest.xml:25:13-36
 158            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
-158-->[androidx.compose.ui:ui-test-manifest:1.10.4] /home/zeke/.gradle/caches/9.5.0/transforms/b2978057452ba23887e32f2483a4c8b8/transformed/ui-test-manifest-1.10.4/AndroidManifest.xml:26:13-76
+158-->[androidx.compose.ui:ui-test-manifest:1.10.4] C:\Users\Admin\.gradle\caches\9.5.0\transforms\b2978057452ba23887e32f2483a4c8b8\transformed\ui-test-manifest-1.10.4\AndroidManifest.xml:26:13-76
 159    </application>
 160
 161</manifest>

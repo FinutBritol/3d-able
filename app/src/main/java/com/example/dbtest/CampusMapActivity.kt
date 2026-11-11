@@ -24,6 +24,7 @@ import com.example.dbtest.data.ReservationRepository
 import com.example.dbtest.map.Building
 import com.example.dbtest.map.CampusBuildings
 import com.example.dbtest.map.Pathway
+import com.example.dbtest.map.Map3DController
 import com.example.dbtest.map.SiteMapView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import kotlinx.coroutines.launch
@@ -86,27 +87,21 @@ class CampusMapActivity : AppCompatActivity() {
         }
 
         val tiltSeek = findViewById<android.widget.SeekBar>(R.id.tiltSeek)
+        val floorButton = findViewById<com.google.android.material.button.MaterialButton>(R.id.floorToggleButton)
+
+        val map3D = Map3DController(siteMapView, lifecycleScope) { enabled ->
+            floorButton.visibility = if (enabled) View.GONE else View.VISIBLE
+            if (slider.isOpen) slider.close()
+            currentBuilding = null
+        }
+
         tiltSeek.setOnSeekBarChangeListener(object : android.widget.SeekBar.OnSeekBarChangeListener {
             override fun onProgressChanged(sb: android.widget.SeekBar, p: Int, fromUser: Boolean) {
-                siteMapView.pitchDeg = 25f + p // 25..90
+                map3D.setTilt(p)
             }
             override fun onStartTrackingTouch(sb: android.widget.SeekBar) {}
             override fun onStopTrackingTouch(sb: android.widget.SeekBar) {}
         })
-
-        val view3dButton = findViewById<com.google.android.material.button.MaterialButton>(R.id.view3dButton)
-        val floorButton = findViewById<com.google.android.material.button.MaterialButton>(R.id.floorToggleButton)
-        view3dButton.setOnClickListener {
-            val on = !siteMapView.mode3D
-            siteMapView.set3D(on)
-            siteMapView.pitchDeg = 25f + tiltSeek.progress
-            view3dButton.text = if (on) "2D" else "3D"
-            tiltSeek.visibility = if (on) android.view.View.VISIBLE else android.view.View.GONE
-            // All storeys are visible at once in 3D, so the per-floor toggle doesn't apply.
-            floorButton.visibility = if (on) android.view.View.GONE else android.view.View.VISIBLE
-            if (slider.isOpen) slider.close()
-            currentBuilding = null
-        }
 
         siteMapView.onBuildingClick = { building ->
             currentBuilding = building

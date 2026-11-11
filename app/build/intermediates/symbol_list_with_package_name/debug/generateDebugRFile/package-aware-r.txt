@@ -87,7 +87,6 @@ id tv_no_bookings
 id tv_password
 id tv_signup
 id tv_username
-id view3dButton
 layout activity_login
 layout activity_main
 layout activity_sign_up

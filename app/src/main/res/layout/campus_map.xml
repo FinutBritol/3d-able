@@ -79,29 +79,38 @@
             android:text="Floor 1"
             android:contentDescription="Toggle floor" />
 
-        <com.google.android.material.button.MaterialButton
-            android:id="@+id/view3dButton"
+        <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_toEndOf="@id/floorToggleButton"
-            android:layout_marginStart="8dp"
-            android:layout_marginBottom="24dp"
-            android:text="3D"
-            android:contentDescription="Toggle 3D view" />
+            android:layout_alignParentEnd="true"
+            android:layout_above="@id/floatingActionButton"
+            android:layout_marginEnd="28dp"
+            android:layout_marginBottom="8dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
 
-        <SeekBar
-            android:id="@+id/tiltSeek"
-            android:layout_width="200dp"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginStart="24dp"
-            android:layout_marginBottom="88dp"
-            android:max="65"
-            android:progress="30"
-            android:visibility="gone"
-            android:contentDescription="Tilt" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3D"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <FrameLayout
+                android:layout_width="48dp"
+                android:layout_height="200dp">
+
+                <SeekBar
+                    android:id="@+id/tiltSeek"
+                    android:layout_width="200dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center"
+                    android:max="65"
+                    android:progress="0"
+                    android:rotation="270"
+                    android:contentDescription="3D tilt" />
+            </FrameLayout>
+        </LinearLayout>
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/floatingActionButton"

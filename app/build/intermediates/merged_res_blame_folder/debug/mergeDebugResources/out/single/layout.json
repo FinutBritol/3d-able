@@ -1,58 +1,58 @@
 [
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/fragment_add.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/fragment_add.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\campus_map.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\campus_map.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/room_status.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/room_status.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/profile_info.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/profile_info.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\settings.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\settings.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/activity_main.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\activity_main.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/activity_login.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/activity_login.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\slider.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\slider.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/settings.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/settings.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\fragment_list.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\fragment_list.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/activity_sign_up.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/activity_sign_up.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\item_user.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\item_user.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/reservation.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/reservation.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\profile_info.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\profile_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\fragment_add.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\edit_profile.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\edit_profile.xml"
     },
     {
         "merged": "com.example.dbtest.app-mergeDebugResources-66:/layout/campus_map.xml",
         "source": "com.example.dbtest.app-main-69:/layout/campus_map.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/slider.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/slider.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\reservation.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\reservation.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/edit_profile.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/edit_profile.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\room_status.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\room_status.xml"
     },
     {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/campus_map.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/campus_map.xml"
-    },
-    {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/fragment_list.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/fragment_list.xml"
-    },
-    {
-        "merged": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-mergeDebugResources-66:/layout/item_user.xml",
-        "source": "/home/zeke/.gradle/daemon/9.5.0/com.example.dbtest.app-main-69:/layout/item_user.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-mergeDebugResources-66:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\9.5.0\\com.example.dbtest.app-main-69:\\layout\\activity_login.xml"
     }
 ]

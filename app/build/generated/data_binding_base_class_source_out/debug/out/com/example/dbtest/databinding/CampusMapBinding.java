@@ -55,15 +55,12 @@ public final class CampusMapBinding implements ViewBinding {
   @NonNull
   public final SeekBar tiltSeek;
 
-  @NonNull
-  public final MaterialButton view3dButton;
-
   private CampusMapBinding(@NonNull FrameLayout rootView, @NonNull TextView buildingName,
       @NonNull ComposeView compassOverlay, @NonNull FloatingActionButton floatingActionButton,
       @NonNull MaterialButton floorToggleButton, @NonNull LinearLayout legendCard,
       @NonNull TextView legendHeader, @NonNull LinearLayout legendLayout,
       @NonNull SiteMapView siteMapView, @NonNull SliderBinding sliderRoot,
-      @NonNull SeekBar tiltSeek, @NonNull MaterialButton view3dButton) {
+      @NonNull SeekBar tiltSeek) {
     this.rootView = rootView;
     this.buildingName = buildingName;
     this.compassOverlay = compassOverlay;
@@ -75,7 +72,6 @@ public final class CampusMapBinding implements ViewBinding {
     this.siteMapView = siteMapView;
     this.sliderRoot = sliderRoot;
     this.tiltSeek = tiltSeek;
-    this.view3dButton = view3dButton;
   }
 
   @Override
@@ -166,15 +162,9 @@ public final class CampusMapBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.view3dButton;
-      MaterialButton view3dButton = ViewBindings.findChildViewById(rootView, id);
-      if (view3dButton == null) {
-        break missingId;
-      }
-
       return new CampusMapBinding((FrameLayout) rootView, buildingName, compassOverlay,
           floatingActionButton, floorToggleButton, legendCard, legendHeader, legendLayout,
-          siteMapView, binding_sliderRoot, tiltSeek, view3dButton);
+          siteMapView, binding_sliderRoot, tiltSeek);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

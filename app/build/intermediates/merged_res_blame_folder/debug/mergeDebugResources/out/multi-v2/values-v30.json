@@ -4,7 +4,7 @@
             "outputFile": "com.example.dbtest.app-mergeDebugResources-65:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "/home/zeke/.gradle/caches/9.5.0/transforms/db418b9eed6ba5e4d85f24d8fb65bc9a/transformed/material3/res/values-v30/values-v30.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\9.5.0\\transforms\\db418b9eed6ba5e4d85f24d8fb65bc9a\\transformed\\material3\\res\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
